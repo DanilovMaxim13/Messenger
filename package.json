@@ -2,12 +2,9 @@
   "name": "killogram",
   "version": "1.0.0",
   "description": "Messenger",
-  "main": "indexq.js",
-  "engines": {
-    "node": "14.x"
-  },
+  "main": "app.js",
   "scripts": {
-    "start": "node indexq.js"
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC",
