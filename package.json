@@ -2,9 +2,13 @@
   "name": "killogram",
   "version": "1.0.0",
   "description": "Messenger",
-  "main": "app.js",
+  "main": "index.js",
+  "engines": {
+    "node": "15.14.0",
+    "npm": "7.7.6"
+  },
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
