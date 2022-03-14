@@ -4,8 +4,7 @@
   "description": "Messenger",
   "main": "index.js",
   "engines": {
-    "node": "15.14.0",
-    "npm": "7.7.6"
+    "node": "14.x"
   },
   "scripts": {
     "start": "node index.js"
